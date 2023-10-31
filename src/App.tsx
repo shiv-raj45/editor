@@ -32,7 +32,10 @@ function App() {
   return (
     <>
       <div id="editor"></div>
-      <FroalaEditor tag="textarea" config={{
+      <FroalaEditor tag="textarea"
+      key={'salidasdkjasd'}
+      config={{
+        key:"lasndjkasmasjkd"
         
       }} />
     </>
